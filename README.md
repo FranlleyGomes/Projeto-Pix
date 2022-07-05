@@ -1,6 +1,6 @@
-1º Têm que ter no sistema um lugar para guardar um Código Pix com um valor pré fixado, neste caso, eu coloquei no exemplo 1,00;
-	- Só gerar um Código com o aplicativo do banco do cliente.
-Obs: Coloque 1,00
-
+# Principias lembretes:
+* Têm que colocar no sistema, um código padrão do PIX do cliente que não pode ser alterado;
+* Só gerar o Código com o aplicativo do banco do cliente;
+* Neste exemplo, eu coloquei 1,00 (Seria interessante manter este valor);
 
 
